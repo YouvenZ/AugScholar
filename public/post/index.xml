@@ -14,10 +14,24 @@
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
+      <title>Create easy presentatio in seconds with markdown and pandoc.</title>
       <link>http://localhost:1313/post/first_post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/post/first_post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>How to write good prompt for research ?</title>
+      <link>http://localhost:1313/post/post4/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/post/post4/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>http://localhost:1313/post/markdown_pandoc_pptx/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/post/markdown_pandoc_pptx/</guid>
       <description>Desc Text.</description>
     </item>
     <item>
