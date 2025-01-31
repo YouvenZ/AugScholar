@@ -1,5 +1,5 @@
 ---
-title: "Create easy presentatio in seconds with markdown and pandoc."
+title: "How to write good prompt for research ?"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -7,9 +7,9 @@ tags: ["first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
+katex: true
 TocOpen: true
-draft: false
-mermaid : true
+draft: true
 hidemeta: false
 comments: True
 description: "Desc Text."
@@ -18,7 +18,6 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-math: true
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -40,7 +39,40 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-Some description associated with the article it should be long enough in order to be displayed but not too long 
+
+
+In this post we will see how we can create the easy presentation in seconds using markdown and pandoc
+
+
+
+# What is pandoc ?
+
+
+## Install pandoc 
+
+
+## Use pandoc
+
+
+
+
+# How to structure of markdown
+
+
+## What type of content can be added inside the presentation
+
+
+[List of markdown features]
+
+
+
+The rule is quite simple you can include anything that you want inside normal markdown but to create slide your need to add the following 
+%\---%\ as a separator to create slide
+
+
+Once you have the different element associate to your slides you are ready to create your powerpoint slides.
+
+## The command line to use
 
 
 
@@ -48,37 +80,4 @@ Some description associated with the article it should be long enough in order t
 
 
 
-![name](../images/featured.png#center)
 
- What is the best research stack ?
-
-- Jupyter notebook
-- Pandoc
-- Latex
-
-
-
-{{< mermaid >}}
-flowchart LR
-    y("👫 You") --> h{"🤝 Found this helpful?"}
-    h --> |Yes| r[/"⭐ Check out my featured posts!"/]
-    h --> |No| su[/"📝 Suggest changes by clicking near the title"/]
-    click r "/categories/featured" _blank
-{{< /mermaid >}}
-
-
-
-$$ a_{x} +  b  = \Phi(x) $$ 
-
-![image](https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png)Binks
-
-
-![image](images/featured.png)Binks
-
-
-![image](data/images/featured.png)Binks
-
-![image](images/featured.png)Binks
-
-
-![image](assets/images/featured.png)Binks
