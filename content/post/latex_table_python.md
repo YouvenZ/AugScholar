@@ -1,5 +1,5 @@
 ---
-title: "How to write good prompt for research ?"
+title: "Create latex table with python and pandas."
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -9,10 +9,10 @@ author: "Me"
 showToc: true
 katex: true
 TocOpen: true
-draft: true
+draft: false
 hidemeta: false
 comments: True
-description: "Desc Text."
+description: "This article will present a set of tool to create latex table a .csv directly from python."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -40,44 +40,4 @@ cover:
 ---
 
 
-
-In this post we will see how we can create the easy presentation in seconds using markdown and pandoc
-
-
-
-# What is pandoc ?
-
-
-## Install pandoc 
-
-
-## Use pandoc
-
-
-
-
-# How to structure of markdown
-
-
-## What type of content can be added inside the presentation
-
-
-[List of markdown features]
-
-
-
-The rule is quite simple you can include anything that you want inside normal markdown but to create slide your need to add the following 
-%\---%\ as a separator to create slide
-
-
-Once you have the different element associate to your slides you are ready to create your powerpoint slides.
-
-## The command line to use
-
-
-
-
-
-
-
-
+Latex table can be quite the headache sometimes..

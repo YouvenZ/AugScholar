@@ -1,9 +1,9 @@
 ---
-title: "Create easy presentatio in seconds with markdown and pandoc."
+title: "3 techniques to create easy figures for your research paper."
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["markdown","pandoc","presentation","time-saving"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,7 +12,7 @@ draft: false
 mermaid : true
 hidemeta: false
 comments: True
-description: "Desc Text."
+description: "Presentation of three framework that allow you to create figure for your paper only using text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -45,40 +45,25 @@ Some description associated with the article it should be long enough in order t
 
 
 
-
-
-
-![name](../images/featured.png#center)
-
- What is the best research stack ?
-
-- Jupyter notebook
-- Pandoc
-- Latex
-
-
-
 {{< mermaid >}}
-flowchart LR
-    y("👫 You") --> h{"🤝 Found this helpful?"}
-    h --> |Yes| r[/"⭐ Check out my featured posts!"/]
-    h --> |No| su[/"📝 Suggest changes by clicking near the title"/]
-    click r "/categories/featured" _blank
+graph LR
+    A --> B
+    B --> C
 {{< /mermaid >}}
 
 
+{{< mermaid > }}
+timeline
+    title Plan du Cortège et Réception
+    13h10 : 🚗 Rendez-vous au Parking Mégarama (44 Av de la Longue Bertrane).  ➡️ Organiser le cortège et attendre les voitures.
 
-$$ a_{x} +  b  = \Phi(x) $$ 
+    13h20 : 🚗 Départ pour la Mairie de Saint-Ouen (~13/14 min).
 
-![image](https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png)Binks
+    13h45 : 📍 Arrivée à la Mairie.  ➡️ Tour du rond-point avec klaxons. 🅿️ Parking payant ou à proximité.
 
+    14h20 : 🎉 Entrée à la Mairie.  ➡️ Confettis & alignement.
 
-![image](images/featured.png)Binks
+    14h45 : 🎊Sortie avec Confettis.
 
-
-![image](data/images/featured.png)Binks
-
-![image](images/featured.png)Binks
-
-
-![image](assets/images/featured.png)Binks
+    18h20 : 🏠 Rendez-vous à La Scena (2 Av Henri Barbusse, Bobigny).  🅿️ 4 places dédiées + rue.  🎉 Réception.
+{{< /mermaid >}}
