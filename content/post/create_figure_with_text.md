@@ -45,14 +45,14 @@ Some description associated with the article it should be long enough in order t
 
 
 
-{{< mermaid >}}
+{{mermaid}}
 graph LR
     A --> B
     B --> C
-{{< /mermaid >}}
+{{mermaid}}
 
 
-{{< mermaid > }}
+{{mermaid }}
 timeline
     title Plan du Cortège et Réception
     13h10 : 🚗 Rendez-vous au Parking Mégarama (44 Av de la Longue Bertrane).  ➡️ Organiser le cortège et attendre les voitures.
@@ -66,4 +66,4 @@ timeline
     14h45 : 🎊Sortie avec Confettis.
 
     18h20 : 🏠 Rendez-vous à La Scena (2 Av Henri Barbusse, Bobigny).  🅿️ 4 places dédiées + rue.  🎉 Réception.
-{{< /mermaid >}}
+{{ /mermaid }}
