@@ -26,7 +26,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: images/featured.png 
+    image: "../image/featured.png" 
     # image path/url
     alt: "Image test" # alt text
     caption: "Image of a feature" # display caption under cover
@@ -41,3 +41,6 @@ cover:
 
 
 Latex table can be quite the headache sometimes..
+
+
+![image](../images/featured.png)
