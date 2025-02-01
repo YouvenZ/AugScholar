@@ -14,39 +14,39 @@
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Create easy presentatio in seconds with markdown and pandoc.</title>
-      <link>http://localhost:1313/post/first_post/</link>
+      <title>3 techniques to create easy figures for your research paper.</title>
+      <link>http://localhost:1313/post/create_figure_with_text/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/first_post/</guid>
-      <description>Desc Text.</description>
+      <guid>http://localhost:1313/post/create_figure_with_text/</guid>
+      <description>Presentation of three framework that allow you to create figure for your paper only using text.</description>
     </item>
     <item>
-      <title>How to write good prompt for research ?</title>
-      <link>http://localhost:1313/post/post4/</link>
+      <title>As an academic why should you master markdown</title>
+      <link>http://localhost:1313/post/why-master-markdown/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/post4/</guid>
-      <description>Desc Text.</description>
+      <guid>http://localhost:1313/post/why-master-markdown/</guid>
+      <description>This article will presents important reason why you should master markdown to ease your academic journey.</description>
     </item>
     <item>
-      <title>My 1st post</title>
+      <title>Create fast reseach presentation using markdown and pandoc.</title>
       <link>http://localhost:1313/post/markdown_pandoc_pptx/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/post/markdown_pandoc_pptx/</guid>
-      <description>Desc Text.</description>
+      <description>This article with present a pipeline to create fast and reliable power point presentation using markdown and pandoc that are well suited for research setup.</description>
     </item>
     <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/post/third_post/</link>
+      <title>Create latex table with python and pandas.</title>
+      <link>http://localhost:1313/post/latex_table_python/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/third_post/</guid>
-      <description>Desc Text.</description>
+      <guid>http://localhost:1313/post/latex_table_python/</guid>
+      <description>This article will present a set of tool to create latex table a .csv directly from python.</description>
     </item>
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/second_post/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second_post/</guid>
-      <description>Desc Text.</description>
+      <title>How to write good prompt for research ?</title>
+      <link>http://localhost:1313/post/good_research_prompt/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/post/good_research_prompt/</guid>
+      <description>This article will provide the techniques to write good research prompts for different research activities.</description>
     </item>
   </channel>
 </rss>

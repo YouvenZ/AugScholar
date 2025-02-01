@@ -14,32 +14,18 @@
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Create easy presentatio in seconds with markdown and pandoc.</title>
-      <link>http://localhost:1313/post/first_post/</link>
+      <title>Create latex table with python and pandas.</title>
+      <link>http://localhost:1313/post/latex_table_python/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/first_post/</guid>
-      <description>Desc Text.</description>
+      <guid>http://localhost:1313/post/latex_table_python/</guid>
+      <description>This article will present a set of tool to create latex table a .csv directly from python.</description>
     </item>
     <item>
       <title>How to write good prompt for research ?</title>
-      <link>http://localhost:1313/post/post4/</link>
+      <link>http://localhost:1313/post/good_research_prompt/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/post4/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/post/markdown_pandoc_pptx/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown_pandoc_pptx/</guid>
-      <description>Desc Text.</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>http://localhost:1313/post/third_post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/third_post/</guid>
-      <description>Desc Text.</description>
+      <guid>http://localhost:1313/post/good_research_prompt/</guid>
+      <description>This article will provide the techniques to write good research prompts for different research activities.</description>
     </item>
   </channel>
 </rss>

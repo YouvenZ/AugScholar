@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: images/featured.png 
+    image: data/images/featured.png 
     # image path/url
     alt: "Image test" # alt text
     caption: "Image of a feature" # display caption under cover
@@ -44,26 +44,37 @@ Some description associated with the article it should be long enough in order t
 
 
 
-
-{{mermaid}}
+{{< mermaid >}}
 graph LR
     A --> B
     B --> C
-{{mermaid}}
+{{< /mermaid >}}
 
 
-{{mermaid }}
+
+{{< mermaid >}}
+flowchart LR
+    y("👫 You") --> h{"🤝 Found this helpful?"}
+    h --> |Yes| r[/"⭐ Check out my featured posts!"/]
+    h --> |No| su[/"📝 Suggest changes by clicking near the title"/]
+    click r "/categories/featured" _blank
+{{< /mermaid >}}
+
+
+
+
+{{< mermaid >}}
 timeline
-    title Plan du Cortège et Réception
-    13h10 : 🚗 Rendez-vous au Parking Mégarama (44 Av de la Longue Bertrane).  ➡️ Organiser le cortège et attendre les voitures.
+title Plan du Cortège et Réception
+13h10 : 🚗 Rendez-vous au Parking Mégarama (44 Av de la Longue Bertrane).  ➡️ Organiser le cortège et attendre les voitures.
 
-    13h20 : 🚗 Départ pour la Mairie de Saint-Ouen (~13/14 min).
+13h20 : 🚗 Départ pour la Mairie de Saint-Ouen (~13/14 min).
 
-    13h45 : 📍 Arrivée à la Mairie.  ➡️ Tour du rond-point avec klaxons. 🅿️ Parking payant ou à proximité.
+13h45 : 📍 Arrivée à la Mairie.  ➡️ Tour du rond-point avec klaxons. 🅿️ Parking payant ou à proximité.
 
-    14h20 : 🎉 Entrée à la Mairie.  ➡️ Confettis & alignement.
+14h20 : 🎉 Entrée à la Mairie.  ➡️ Confettis & alignement.
 
-    14h45 : 🎊Sortie avec Confettis.
+14h45 : 🎊Sortie avec Confettis.
 
-    18h20 : 🏠 Rendez-vous à La Scena (2 Av Henri Barbusse, Bobigny).  🅿️ 4 places dédiées + rue.  🎉 Réception.
-{{ /mermaid }}
+18h20 : 🏠 Rendez-vous à La Scena (2 Av Henri Barbusse, Bobigny).  🅿️ 4 places dédiées + rue.  🎉 Réception.
+{{< /mermaid >}}
