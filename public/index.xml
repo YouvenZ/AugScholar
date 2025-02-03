@@ -6,13 +6,27 @@
     <description>Recent content on AugmentedScholars</description>
     <image>
       <title>AugmentedScholars</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/logo_augmented_scholars.png</url>
+      <link>http://localhost:1313/logo_augmented_scholars.png</link>
     </image>
     <generator>Hugo -- 0.136.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
+&lt;p&gt;We’d love to hear from you! Whether you have a question, feedback, or business inquiries, reach out to us.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:support@yourwebsite.com&#34;&gt;support@yourwebsite.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +1 (234) 567-890&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address:&lt;/strong&gt; 123 Web Street, Internet City, 56789&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Alternatively, use the form below:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>3 techniques to create easy figures for your research paper.</title>
       <link>http://localhost:1313/post/create_figure_with_text/</link>
