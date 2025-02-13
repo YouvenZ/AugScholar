@@ -42,6 +42,15 @@ cover:
 
 Some description associated with the article it should be long enough in order to be displayed but not too long 
 
+Before using anyking a model to create realist images should think about the two following tools.
+
+- Mermaid
+  -  Mermaid is graphical web library that allow someone to make figure solieny based on the plain text (markdown) their documentation is quite good definitly have a lot at it. 
+- Tikz
+  - Tizk is a latex package that allow you to create any type of figure direclty written in latex.
+
+
+
 
 
 {{< mermaid >}}
