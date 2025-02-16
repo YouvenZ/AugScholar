@@ -40,6 +40,34 @@ cover:
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Latex table can be quite the headache sometimes..
 
 
