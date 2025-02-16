@@ -5,7 +5,7 @@ date: 2025-02-03
 url: "/privacy-policy/"
 ---
 ## Introduction
-Welcome to **YourWebsite**. We value your privacy and are committed to protecting your personal data.
+Welcome to **AugmentedScholars**. We value your privacy and are committed to protecting your personal data.
 
 ## Information We Collect
 - **Personal Information:** Name, email, contact details when you submit forms.
@@ -24,4 +24,4 @@ You have the right to:
 - Access, modify, or delete your data.
 - Opt-out of analytics tracking.
 
-For any privacy concerns, contact us at **privacy@yourwebsite.com**.
+For any privacy concerns, contact us at **youvenz.pro@gmail.com**.

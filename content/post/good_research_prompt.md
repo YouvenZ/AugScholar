@@ -26,7 +26,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: ../images/featured.png 
+    image: /../../image/background.jpg
     # image path/url
     alt: "Image test" # alt text
     caption: "Image of a feature" # display caption under cover
@@ -47,4 +47,29 @@ cover:
 
 
 
+
+![image](/content/post/images/image_inside_post.png)
+
+![image](/../../post/images/image_inside_post.png#center)
+
+
+![image](/../../image/background.jpg)
+
+
+![image](./images/image_inside_post.png)
+![image](/content/post/images/image_inside_post.png)
+
+
+
+
+
+![image](./data/images/background.jpg)
+
+
+
+
+![image](./images/background.jpg)
+
+
+![image](/images/background.jpg)
 

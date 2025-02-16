@@ -27,7 +27,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: ../data/images/featured.png 
+    image: ../images/featured.png 
     # image path/url
     alt: "Image test" # alt text
     caption: "Image of a feature" # display caption under cover
