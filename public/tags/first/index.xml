@@ -20,12 +20,5 @@
       <guid>http://localhost:1313/post/latex_table_python/</guid>
       <description>This article will present a set of tool to create latex table a .csv directly from python.</description>
     </item>
-    <item>
-      <title>How to write good prompt for research ?</title>
-      <link>http://localhost:1313/post/good_research_prompt/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/post/good_research_prompt/</guid>
-      <description>This article will provide the techniques to write good research prompts for different research activities.</description>
-    </item>
   </channel>
 </rss>

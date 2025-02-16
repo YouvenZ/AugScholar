@@ -8,7 +8,16 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/terms-of-service/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/create_figure_with_text/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/why-master-markdown/</loc>
@@ -36,6 +45,9 @@
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/presentation/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prompting/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
