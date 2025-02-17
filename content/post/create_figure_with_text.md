@@ -40,50 +40,86 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-Some description associated with the article it should be long enough in order to be displayed but not too long 
+**Title:** Choosing the Right Tool for Creating Realistic Images: Mermaid vs. TikZ
 
-Before using anyking a model to create realist images should think about the two following tools.
+**Description:**  
+Before using any model to create realistic images, consider these two powerful tools for generating structured, high-quality figures. Mermaid and TikZ offer different approaches—one focusing on simplicity and markdown-based diagrams, the other on precise LaTeX-generated illustrations. This post explores best practices, examples, and storytelling to help you make the best choice for your needs.
 
-- Mermaid
-  -  Mermaid is graphical web library that allow someone to make figure solieny based on the plain text (markdown) their documentation is quite good definitly have a lot at it. 
-- Tikz
-  - Tizk is a latex package that allow you to create any type of figure direclty written in latex.
+---
 
+### Introduction: The Challenge of Creating Realistic Images
 
+Imagine you're working on a technical document, research paper, or a presentation. You need to include high-quality visuals, but standard drawing tools feel cumbersome, and AI-generated images may not meet your needs. This is where text-based image generation tools like Mermaid and TikZ come in.
 
+Both tools allow you to create figures programmatically, but they have distinct advantages and ideal use cases. Let’s dive into each and explore best practices for using them effectively.
 
+---
 
-{{< mermaid >}}
-graph LR
-    A --> B
-    B --> C
-{{< /mermaid >}}
+### **Mermaid: A Markdown-Based Diagramming Tool**
 
+Mermaid is a graphical web library that enables users to generate diagrams using plain text (Markdown). It’s widely used for flowcharts, sequence diagrams, Gantt charts, and more. If you need quick, structured visuals that integrate seamlessly with documentation platforms like GitHub, Notion, or Obsidian, Mermaid is an excellent choice.
 
+#### **Best Practices for Using Mermaid**
 
-{{< mermaid >}}
-flowchart LR
-    y("👫 You") --> h{"🤝 Found this helpful?"}
-    h --> |Yes| r[/"⭐ Check out my featured posts!"/]
-    h --> |No| su[/"📝 Suggest changes by clicking near the title"/]
-    click r "/categories/featured" _blank
-{{< /mermaid >}}
+- **Keep it Simple:** Mermaid works best for structured diagrams. Avoid overly complex visuals.
+- **Use Proper Indentation:** Mermaid scripts rely on proper indentation for clarity and functionality.
+- **Leverage Documentation:** The official Mermaid documentation is comprehensive—refer to it for advanced features.
+- **Integrate with Markdown Platforms:** If your workflow includes tools like Notion, GitHub, or MkDocs, Mermaid fits naturally.
 
+#### **Example: Creating a Flowchart with Mermaid**
 
+```mermaid
+flowchart TD
+    A[Start] --> B{Decision?}
+    B -->|Yes| C[Process Step 1]
+    B -->|No| D[Process Step 2]
+    C --> E[End]
+    D --> E[End]
+```
 
+---
 
-{{< mermaid >}}
-timeline
-title Plan du Cortège et Réception
-13h10 : 🚗 Rendez-vous au Parking Mégarama (44 Av de la Longue Bertrane).  ➡️ Organiser le cortège et attendre les voitures.
+### **TikZ: A LaTeX-Based Drawing Package**
 
-13h20 : 🚗 Départ pour la Mairie de Saint-Ouen (~13/14 min).
+TikZ is a powerful LaTeX package that allows users to create any type of figure directly within LaTeX. It’s ideal for precise, mathematical, and publication-quality diagrams.
 
-13h45 : 📍 Arrivée à la Mairie.  ➡️ Tour du rond-point avec klaxons. 🅿️ Parking payant ou à proximité.
+#### **Best Practices for Using TikZ**
 
-14h20 : 🎉 Entrée à la Mairie.  ➡️ Confettis & alignement.
+- **Use Predefined Styles:** Define reusable styles to keep your diagrams clean and consistent.
+- **Combine with LaTeX Features:** Integrate with mathematical expressions and labels for seamless document formatting.
+- **Optimize Code for Readability:** Break long lines and use comments for clarity.
+- **Utilize Online Tools:** Platforms like Overleaf can simplify TikZ development with real-time previews.
 
-14h45 : 🎊Sortie avec Confettis.
+#### **Example: Drawing a Simple Graph with TikZ**
 
-18h20 : 🏠 Rendez-vous à La Scena (2 Av Henri Barbusse, Bobigny).  🅿️ 4 places dédiées + rue.  🎉 Réception.
-{{< /mermaid >}}
+```latex
+\documentclass{article}
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}
+    \draw[thick] (0,0) -- (2,2);
+    \draw[thick] (2,2) -- (4,0);
+    \draw[thick] (4,0) -- (0,0);
+    \filldraw[red] (2,2) circle (3pt);
+\end{tikzpicture}
+\end{document}
+```
+
+---
+
+### **Storytelling: Choosing the Right Tool for the Right Job**
+
+Meet Alex, a software engineer documenting a complex workflow. He needs a simple, quick way to visualize data flow and dependencies. Alex chooses Mermaid because of its seamless integration with Markdown-based documentation.
+
+Meanwhile, Dr. Elena, a researcher in theoretical physics, is preparing a paper for publication. She needs precise, mathematical illustrations and opts for TikZ to ensure her figures maintain high-quality typesetting within LaTeX.
+
+Their different choices highlight a key takeaway: **Mermaid is great for quick, structured diagrams, while TikZ excels in precision and complexity.**
+
+---
+
+### **Conclusion: Which One Should You Use?**
+
+- **Use Mermaid** if you need quick, structured diagrams in a Markdown-based environment.
+- **Use TikZ** if you need precise, mathematical, or highly detailed figures within LaTeX documents.
+
+Understanding the strengths of each tool ensures you choose the right one for your project. Whether you're documenting workflows or creating scientific illustrations, Mermaid and TikZ are both invaluable resources for generating realistic, structured images.
