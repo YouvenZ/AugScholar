@@ -26,10 +26,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: "../image/featured.png" 
+    image: ../../post/images/python_pandas_latex.jpg 
     # image path/url
-    alt: "Image test" # alt text
-    caption: "Image of a feature" # display caption under cover
+    alt: "Create clean latex table using pandas and latex." # alt text
+    caption: "Use python and pandas to create latex table." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
     

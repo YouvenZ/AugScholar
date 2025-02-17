@@ -27,10 +27,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: ../images/featured.png 
+    image: ../../post/images/tikz_mermaid.jpg 
     # image path/url
-    alt: "Image test" # alt text
-    caption: "Image of a feature" # display caption under cover
+    alt: "create vector based illustrations using text only. Tikz VS Mermaid a comparaison. " # alt text
+    caption: "Create vector based illustrations using text only. Tikz VS Mermaid." # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
     

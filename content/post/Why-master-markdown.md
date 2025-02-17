@@ -27,10 +27,10 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 cover:
-    image: images/featured.png 
+    image: ../../post/images/Why_should_you_master_markdown_as_a_researcher.jpg 
     # image path/url
-    alt: "Image test" # alt text
-    caption: "Image of a feature" # display caption under cover
+    alt: "Why should you master markdown as a researcher ?" # alt text
+    caption: "Why should you master markdown as a researcher ?" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
     
@@ -42,19 +42,20 @@ cover:
 
 
 
-**As an Academic, Why Should You Master Markdown?**
+# **As an Academic, Why Should You Master Markdown?**
 
-### The Problems
+
+## The Problems
 Academic writing is a complex and often frustrating endeavor. Between formatting citations, structuring papers, and collaborating with peers, scholars constantly battle with clunky word processors that introduce unnecessary friction. Proprietary software limitations, version control issues, and inconsistent formatting add to the struggle. When working with LaTeX, the steep learning curve can discourage many from adopting it, even if it provides excellent typesetting.
 
 Moreover, academics often write for multiple platforms—journals, blogs, slides, and notes—each with its own formatting requirements. Managing all these different styles manually can become a major headache.
 
-### The Story That I Lived
+## The Story That I Lived
 I used to be a firm believer in traditional word processors. Like many academics, I spent hours tinkering with formatting, fixing citations, and ensuring that my documents looked presentable. Then, while collaborating on a research paper, my team encountered endless compatibility issues—one person used Microsoft Word, another Google Docs, and a third insisted on LaTeX. Converting between formats resulted in broken citations, misplaced figures, and corrupted references.
 
 Frustrated, I started looking for alternatives. That’s when I discovered Markdown. At first, it seemed too simple—just plain text with a few symbols. But as I delved deeper, I realized its immense power. It allowed me to write without worrying about formatting, export my work effortlessly into different formats, and collaborate seamlessly with others. It was a game-changer.
 
-### The Solution
+## The Solution
 Markdown is a lightweight markup language that enables structured writing without the overhead of complex formatting tools. It uses simple syntax (like `**bold**` for bold or `#` for headings) to keep documents clean and readable.
 
 For academics, Markdown provides several benefits:
@@ -64,25 +65,7 @@ For academics, Markdown provides several benefits:
 - **Multi-platform compatibility** – Write once, export to multiple formats (HTML, PDF, Word, etc.) without extra effort.
 - **Integration with academic tools** – It plays well with Pandoc, Jupyter Notebooks, and reference managers like Zotero.
 
-### The Takeaways
-If you’re an academic struggling with formatting, document consistency, or collaboration, mastering Markdown can be a lifesaver. It simplifies your workflow, allows for seamless conversions, and integrates well with modern research tools.
 
-Give it a try—start by writing your next research note or draft in Markdown. Soon, you’ll wonder how you ever managed without it!
-
-
-
-
-# **Why Every Academic Should Master Markdown**
-
-## **The Academic Writing Struggle: A Familiar Story**
-
-Meet Dr. Jane Thompson, a dedicated researcher and lecturer. Between juggling grant applications, publishing papers, and preparing course materials, she’s constantly switching between LaTeX for scientific papers, Word for administrative reports, and various online editors for collaborative projects. Formatting nightmares, version control issues, and compatibility headaches consume her time—time that could be spent on actual research.
-
-Then, Jane discovers **Markdown**—a simple, lightweight markup language that transforms the way she writes. Suddenly, her workflow is streamlined, her documents are universally accessible, and she can focus on what truly matters: **her research.**
-
-If you’re an academic struggling with multiple writing tools, mastering Markdown might be the game-changer you need.
-
----
 
 ## **What is Markdown and Why Should You Care?**
 
