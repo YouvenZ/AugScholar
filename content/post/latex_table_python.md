@@ -150,6 +150,8 @@ If you prefer plain tabular data:
 latex_table = df.to_latex(index=False, escape=False)
 ```
 
+
+
 ### **3. Adding a Caption and Label for Reference**
 
 ```python
