@@ -15,7 +15,9 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: AugmentedScholars
-  googleAnalytics: 'G-CHJHSGC75F'
+  Services:
+    googleAnalytics:
+      id: 'G-CHJHSGC75F'
   description: "A blog that teach how to augment academics in their research."
   keywords: [Academic, AI, Productivity, Automation]
   author: Me
@@ -48,6 +50,11 @@ params:
   mermaid:
     theme: "dark"
     align: "center"
+  privacy:
+    googleAnalytics:
+      disable: false
+      respectDoNotTrack: false
+
 
   assets:
     # disableHLJS: true # to disable highlight.js
