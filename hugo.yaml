@@ -41,6 +41,9 @@ params:
   tocopen: false
   cover:
     reponsiveImages : true
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
   mermaid:
     theme: "dark"
     align: "center"
@@ -81,27 +84,23 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
+      url: "https://x.com/ZYouven"
+    - name: linkedin
       url: "https://stackoverflow.com"
     - name: github
       url: "https://github.com/"
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      googleAnalytics: 'G-6269613045'
+      SiteVerificationTag: "GTM-5FBQP2MT"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
       SiteVerificationTag: "XYZabc"
 
-  cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
-
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/YouvenZ/AugScholar/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -118,12 +117,12 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
+    - identifier: Categories
+      name: Categories
       url: /categories/
       weight: 10
-    - identifier: tags
-      name: tags
+    - identifier: Tags
+      name: Tags
       url: /tags/
       weight: 20
 
@@ -136,8 +135,8 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai

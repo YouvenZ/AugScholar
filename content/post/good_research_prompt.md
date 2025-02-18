@@ -106,7 +106,17 @@ Try different variations to see which yields the best results. For example:
 
 ## 3. Best Practices for Writing Research Prompts
 
-✅ **Be as specific as possible** – Broad prompts return too many irrelevant results. ✅ **Avoid jargon (unless necessary)** – Some databases may not recognize technical slang. ✅ **Consider synonyms** – Different authors may use varied terminology. ✅ **Use question formats for conceptual research** – "What are the long-term impacts of deforestation on biodiversity?"
+✅ **Be as specific as possible**
+- Broad prompts return too many irrelevant results.
+   
+✅ **Avoid jargon (unless necessary)** 
+- Some databases may not recognize technical slang.
+
+✅ **Consider synonyms**
+- Different authors may use varied terminology.
+
+✅ **Use question formats for conceptual research** 
+- "What are the long-term impacts of deforestation on biodiversity?"
 
 ### **Pro Tip:**
 
