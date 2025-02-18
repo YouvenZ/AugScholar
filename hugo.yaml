@@ -15,9 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: AugmentedScholars
-  Services:
-    googleAnalytics:
-      id: 'G-CHJHSGC75F'
+  GoogleAnalyticsID: 'G-CHJHSGC75F'
   description: "A blog that teach how to augment academics in their research."
   keywords: [Academic, AI, Productivity, Automation]
   author: Me
