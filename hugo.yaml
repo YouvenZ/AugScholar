@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: AugmentedScholars
-  googleAnalytics: 'G-6269613045'
+  googleAnalytics: 'G-CHJHSGC75F'
   description: "A blog that teach how to augment academics in their research."
   keywords: [Academic, AI, Productivity, Automation]
   author: Me
@@ -93,8 +93,8 @@ params:
 
   analytics:
     google:
-      googleAnalytics: 'G-6269613045'
-      SiteVerificationTag: "GTM-5FBQP2MT"
+      googleAnalytics: 'G-CHJHSGC75F'
+      SiteVerificationTag: "G-CHJHSGC75F"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
