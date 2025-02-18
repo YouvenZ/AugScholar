@@ -195,3 +195,6 @@ By leveraging Pandas, Alex—and now you—can efficiently generate LaTeX tables
 📢 **Join the Conversation**: Have you used Pandas for LaTeX table generation? Share your experience in the comments!
 
 🔗 **Further Reading**: [Pandas Documentation on `to_latex`](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_latex.html)
+
+
+This note is used to make sure the website is build correctly.
