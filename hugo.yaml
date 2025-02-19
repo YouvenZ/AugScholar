@@ -85,16 +85,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to Augmented Scholars blog\U0001F44B"
+    Title: "Hi I am Rachid and welcome to Augmented Scholars blog\U0001F44B"
     Content: In this blog you will find a lot of information about how enhance capacity for your academic journey.  
 
   socialIcons:
     - name: x
       url: "https://x.com/ZYouven"
     - name: linkedin
-      url: "https://stackoverflow.com"
+      url: "https://www.linkedin.com/in/rachid-youven-zeghlache-795816183/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/YouvenZ/"
 
   analytics:
     google:
